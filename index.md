@@ -2,9 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Andressa Marçal
 
-[Link to another page](./another-page.html).
+* Mestranda em Ciência da Computação - UNICAMP
+
+* Pós-Graduanda em Machine Learning e Inteligencia Artificial pela PUC Minas
+
+* Pós Graduada em Tecnologia da Informação para ensino Superior
+
+* Bacharela em Ciência da Computação - UNIPÊ
+
+
+<!-- [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -52,7 +61,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -120,4 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
